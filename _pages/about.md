@@ -33,7 +33,7 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/cmpi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/DropQuery.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DropQueries: A Simple Way to Discover Comprehensive Segment Representations](https://xxx)
@@ -56,6 +56,42 @@ ICCV 2023 <span style="color:red">**Oral**</span>, \| [**Github** ![](https://im
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/IJCAI2019_BPG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Boundary perception guidance: A scribble-supervised semantic segmentation approach](https://opus.lib.uts.edu.au/bitstream/10453/141475/2/0508.pdf)
+
+**Bin Wang**, Guojun Qi, Sheng Tang, Tianzhu Zhang, Yunchao Wei, Linghui Li, Yongdong Zhang
+
+IJCAI 2019
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2019</div><img src='images/MICCAI2019.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spatiotemporal Breast Mass Detection Network(MD-Net) in 4D DCE-MRI Images](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WljXYoYAAAAJ&citation_for_view=WljXYoYAAAAJ:u5HHmVD_uO8C)
+
+Lixi Deng, Sheng Tang, Huazhu Fu, **Bin Wang**, Yongdong Zhang
+
+MICCAI 2019
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2018</div><img src='images/MICCAI2018_Nodule.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automated pulmonary nodule detection: High sensitivity with few candidates](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WljXYoYAAAAJ&citation_for_view=WljXYoYAAAAJ:2osOgNQ5qMEC)
+
+**Bin Wang**, Guojun Qi, Sheng Tang, Liheng Zhang, Lixi Deng, Yongdong Zhang
+
+MICCAI 2018
+</div>
+</div>
 
 
 
