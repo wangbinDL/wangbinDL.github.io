@@ -19,14 +19,14 @@ redirect_from:
  
 <!-- # Short Bio  -->
 # Biography
-I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), focusing on the research of multimodal large language models and multimodal data algorithms. Prior to joining Shanghai AI Lab, I was engaged in data algorithm research at SenseTime Group Inc. (2020-2022). I obtained my Ph.D. from the University of Chinese Academy of Sciences in 2020. Between 2018 and 2019,  I was part of the National Natural Science Foundation of China's joint Ph.D. training program at the University of Central Florida, under the supervision of Professors [Yongdong Zhang](https://scholar.google.com.hk/citations?user=hxGs4ukAAAAJ&hl=zh-CN) and [Guo-Jun Qi](https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=zh-CN).
+I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), focusing on the research of multimodal large language models and multimodal data algorithms. Prior to joining Shanghai AI Lab, I was engaged in data algorithm research at SenseTime Group Inc. (2020-2022). I obtained my Ph.D. from the University of Chinese Academy of Sciences in 2020. Between 2018 and 2019,  I participated in the National Natural Science Foundation of China's joint Ph.D. training program at the University of Central Florida, under the supervision of Professors [Yongdong Zhang](https://scholar.google.com.hk/citations?user=hxGs4ukAAAAJ&hl=zh-CN) and [Guo-Jun Qi](https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=zh-CN).
 
 <!-- We are seeking long-term internship candidates and looking for research collaboration. Please send email to me if you want to join us. -->
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 DropQueries are accepted by TMM 2023. 
-- *2023.08*: &nbsp;🎉🎉 V3Det are accepted by ICCV 2023 (Oral). 
+- *2023.08*: &nbsp;🎉🎉 DropQueries is accepted by TMM 2023. 
+- *2023.08*: &nbsp;🎉🎉 V3Det is accepted by ICCV 2023 (Oral). 
 <!-- - *2022.07*: &nbsp;🎉🎉 PG-MPI is accepted by ECCV2022. -->
 
 
@@ -38,7 +38,7 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 [DropQueries: A Simple Way to Discover Comprehensive Segment Representations](https://xxx)
 
-Haojie Ding, **Bin Wang**, Guoliang Kang, Weijia Li, Conghui He, Yao Zhao, Yunchao Wei
+Haojie Ding, **Bin Wang**, Guoliang Kang, Weijia Li, Conghui He, Yao Zhao, and Yunchao Wei
 
 TMM 2023 
 </div>
@@ -49,7 +49,7 @@ TMM 2023
 
 [V3Det: Vast Vocabulary Visual Detection Dataset](https://arxiv.org/abs/2304.03752)
 
-Jiaqi Wang, Pan Zhang, Tao Chu, Yuhang Cao, Yujie Zhou, Tong Wu, **Bin Wang**, Conghui He, Dahua Lin
+Jiaqi Wang, Pan Zhang, Tao Chu, Yuhang Cao, Yujie Zhou, Tong Wu, **Bin Wang**, Conghui He, and Dahua Lin
 
 ICCV 2023 <span style="color:red">**Oral**</span>, \| [**Project**](https://v3det.openxlab.org.cn/) \| [**Github** ![](https://img.shields.io/github/stars/V3Det/V3Det?style=social)](https://github.com/V3Det/V3Det) 
 
@@ -63,7 +63,7 @@ ICCV 2023 <span style="color:red">**Oral**</span>, \| [**Project**](https://v3de
 
 [Boundary perception guidance: A scribble-supervised semantic segmentation approach](https://opus.lib.uts.edu.au/bitstream/10453/141475/2/0508.pdf)
 
-**Bin Wang**, Guojun Qi, Sheng Tang, Tianzhu Zhang, Yunchao Wei, Linghui Li, Yongdong Zhang
+**Bin Wang**, Guojun Qi, Sheng Tang, Tianzhu Zhang, Yunchao Wei, Linghui Li, and Yongdong Zhang
 
 IJCAI 2019
 </div>
@@ -75,7 +75,7 @@ IJCAI 2019
 
 [Spatiotemporal Breast Mass Detection Network(MD-Net) in 4D DCE-MRI Images](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WljXYoYAAAAJ&citation_for_view=WljXYoYAAAAJ:u5HHmVD_uO8C)
 
-Lixi Deng, Sheng Tang, Huazhu Fu, **Bin Wang**, Yongdong Zhang
+Lixi Deng, Sheng Tang, Huazhu Fu, **Bin Wang**, and Yongdong Zhang
 
 MICCAI 2019
 </div>
@@ -87,7 +87,7 @@ MICCAI 2019
 
 [Automated pulmonary nodule detection: High sensitivity with few candidates](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WljXYoYAAAAJ&citation_for_view=WljXYoYAAAAJ:2osOgNQ5qMEC)
 
-**Bin Wang**, Guojun Qi, Sheng Tang, Liheng Zhang, Lixi Deng, Yongdong Zhang
+**Bin Wang**, Guojun Qi, Sheng Tang, Liheng Zhang, Lixi Deng, and Yongdong Zhang
 
 MICCAI 2018
 </div>
@@ -114,14 +114,14 @@ CVPR 2021 <span style="color:red">**Oral**</span>, [<span style="color:red">**Be
 
 # 🎖 Honors and Awards
 - *2020.06*, Zhu Li Yuehua Outstanding Ph.D. student Scholarship, Chinese Academy of Sciences (CAS).
-- *2016.09*, ILSVRC 2016 VID task (Object Detection from Video), 3rd place.
+- *2016.09*, Won 3rd place in the ILSVRC 2016 VID task (Object Detection from Video).
  
 <!-- - *2017.06*, Honor Ranking of Talent Program in Information Science and Technology (For top 5% students by USTC). 
 - *2015.06*, National Scholarship (The highest scholarship awarded by the Ministry of Education, China).
 - *2014.06*, National Scholarship (The highest scholarship awarded by the Ministry of Education, China). -->
 
 # 🏢 Work Experience
-- *2020.07 - 2022.08*, Research, SenseTime, Shenzhen, China.
+- *2020.07 - 2022.08*, Researcher, SenseTime, Shenzhen, China.
 
 
 # 📖 Education 
