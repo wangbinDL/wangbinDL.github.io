@@ -25,8 +25,8 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 DropQueries are accepted by TMM2023. 
-- *2023.08*: &nbsp;🎉🎉 V3Det are accepted by ICCV2023. 
+- *2023.08*: &nbsp;🎉🎉 DropQueries are accepted by TMM 2023. 
+- *2023.08*: &nbsp;🎉🎉 V3Det are accepted by ICCV 2023 (Oral). 
 <!-- - *2022.07*: &nbsp;🎉🎉 PG-MPI is accepted by ECCV2022. -->
 
 
@@ -51,7 +51,7 @@ TMM 2023
 
 Jiaqi Wang, Pan Zhang, Tao Chu, Yuhang Cao, Yujie Zhou, Tong Wu, **Bin Wang**, Conghui He, Dahua Lin
 
-ICCV 2023 <span style="color:red">**Oral**</span>, \| [**Github** ![](https://img.shields.io/github/stars/microsoft/ProDA?style=social)](https://github.com/V3Det/V3Det) 
+ICCV 2023 <span style="color:red">**Oral**</span>, \| [**Project**](https://v3det.openxlab.org.cn/) \| [**Github** ![](https://img.shields.io/github/stars/microsoft/ProDA?style=social)](https://github.com/V3Det/V3Det) 
 
 </div>
 </div>
@@ -114,7 +114,7 @@ CVPR 2021 <span style="color:red">**Oral**</span>, [<span style="color:red">**Be
 
 # 🎖 Honors and Awards
 - *2020.06*, Zhu Li Yuehua Outstanding Ph.D. student Scholarship, Chinese Academy of Sciences (CAS).
-- *2016.09*, ILSVRC 2016 VID task (Object detection from video), 3rd place.
+- *2016.09*, ILSVRC 2016 VID task (Object Detection from Video), 3rd place.
  
 <!-- - *2017.06*, Honor Ranking of Talent Program in Information Science and Technology (For top 5% students by USTC). 
 - *2015.06*, National Scholarship (The highest scholarship awarded by the Ministry of Education, China).
