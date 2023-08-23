@@ -51,7 +51,7 @@ TMM 2023
 
 Jiaqi Wang, Pan Zhang, Tao Chu, Yuhang Cao, Yujie Zhou, Tong Wu, **Bin Wang**, Conghui He, Dahua Lin
 
-ICCV 2023 <span style="color:red">**Oral**</span>, \| [**Project**](https://v3det.openxlab.org.cn/) \| [**Github** ![](https://img.shields.io/github/stars/microsoft/ProDA?style=social)](https://github.com/V3Det/V3Det) 
+ICCV 2023 <span style="color:red">**Oral**</span>, \| [**Project**](https://v3det.openxlab.org.cn/) \| [**Github** ![](https://img.shields.io/github/stars/V3Det/V3Det?style=social)](https://github.com/V3Det/V3Det) 
 
 </div>
 </div>
