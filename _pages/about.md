@@ -25,6 +25,8 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 VIGC is accepted by AAAI 2024. 
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by IJAEOG 2024. 
 - *2023.08*: &nbsp;🎉🎉 DropQueries is accepted by TMM 2023. 
 - *2023.08*: &nbsp;🎉🎉 V3Det is accepted by ICCV 2023 (Oral). 
 <!-- - *2022.07*: &nbsp;🎉🎉 PG-MPI is accepted by ECCV2022. -->
@@ -32,13 +34,37 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI2024_VIGC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VIGC: Visual Instruction Generation and Correction](https://arxiv.org/abs/2308.12714)
+
+**Bin Wang**, Fan Wu, Xiao Han, Jiahui Peng, Huaping Zhong, Pan Zhang, Xiaoyi Dong, Weijia Li, Wei Li, Jiaqi Wang, Conghui He
+
+AAAI 2024, \| [**Project**](https://opendatalab.github.io/VIGC/) \| [**Github** ![](https://img.shields.io/github/stars/opendatalab/VIGC)](https://github.com/opendatalab/VIGC)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJAEOG 2024</div><img src='images/IJAEOG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring the user guidance for more accurate building segmentation from high-resolution remote sensing images](https://www.sciencedirect.com/science/article/pii/S1569843223004338)
+
+Dinghao Yang<sup>*</sup>, **Bin Wang**<sup>*</sup>, Weijia Li, Conghui He
+
+IJAEOG 2024,  \| [**Github** ![](https://img.shields.io/github/stars/StephenDHYang/UGBS-pytorch)](https://github.com/StephenDHYang/UGBS-pytorch)
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/DropQuery.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DropQueries: A Simple Way to Discover Comprehensive Segment Representations](https://xxx)
+[DropQueries: A Simple Way to Discover Comprehensive Segment Representations](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WljXYoYAAAAJ&sortby=pubdate&citation_for_view=WljXYoYAAAAJ:ufrVoPGSRksC)
 
-Haojie Ding, **Bin Wang**, Guoliang Kang, Weijia Li, Conghui He, Yao Zhao, and Yunchao Wei
+
 
 TMM 2023 
 </div>
