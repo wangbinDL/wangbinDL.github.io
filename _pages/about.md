@@ -64,7 +64,7 @@ IJAEOG 2024,  \| [**Github** ![](https://img.shields.io/github/stars/StephenDHYa
 
 [DropQueries: A Simple Way to Discover Comprehensive Segment Representations](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WljXYoYAAAAJ&sortby=pubdate&citation_for_view=WljXYoYAAAAJ:ufrVoPGSRksC)
 
-
+Haojie Ding, **Bin Wang**, Guoliang Kang, Weijia Li, Conghui He, Yao Zhao, and Yunchao Wei
 
 TMM 2023 
 </div>
