@@ -25,6 +25,7 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 OPERA is accepted by AAAI 2024. 
 - *2023.12*: &nbsp;🎉🎉 VIGC is accepted by AAAI 2024. 
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by IJAEOG 2024. 
 - *2023.08*: &nbsp;🎉🎉 DropQueries is accepted by TMM 2023. 
