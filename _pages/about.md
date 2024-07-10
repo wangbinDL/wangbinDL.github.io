@@ -41,7 +41,7 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 [Parrot Captions Teach CLIP to Spot Text](https://arxiv.org/abs/2312.14232)
 
-Yiqi Lin, Conghui He, Alex Jinpeng Wang, **Bin Wang**, Weijia Li, Mike Zheng Shou
+Yiqi Lin<sup>*</sup>, Conghui He<sup>*</sup>, Alex Jinpeng Wang<sup>*</sup>, **Bin Wang**<sup>*</sup>, Weijia Li, Mike Zheng Shou
 
 ECCV 2024, \| [**Project**](https://linyq17.github.io/CLIP-Parrot-Bias/) \| [**Github** ![](https://img.shields.io/github/stars/opendatalab/CLIP-Parrot-Bias)](https://github.com/opendatalab/CLIP-Parrot-Bias)
 </div>
