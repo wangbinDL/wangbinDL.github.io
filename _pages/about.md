@@ -25,6 +25,7 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 CLIP-Parrot-Bias is accepted by ECCV 2024.
 - *2024.02*: &nbsp;🎉🎉 OPERA is accepted by CVPR 2024. 
 - *2023.12*: &nbsp;🎉🎉 VIGC is accepted by AAAI 2024. 
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by IJAEOG 2024. 
@@ -34,6 +35,17 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv2024_clip-parrot-bias.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Parrot Captions Teach CLIP to Spot Text](https://arxiv.org/abs/2312.14232)
+
+Yiqi Lin, Conghui He, Alex Jinpeng Wang, **Bin Wang**, Weijia Li, Mike Zheng Shou
+
+ECCV 2024, \| [**Project**](https://linyq17.github.io/CLIP-Parrot-Bias/) \| [**Github** ![](https://img.shields.io/github/stars/opendatalab/CLIP-Parrot-Bias)](https://github.com/opendatalab/CLIP-Parrot-Bias)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI2024_VIGC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
