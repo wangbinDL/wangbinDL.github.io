@@ -25,6 +25,7 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🔥🔥🔥 PDF-Extract-Kit has received 2100+ github star.
 - *2024.07*: &nbsp;🎉🎉 CLIP-Parrot-Bias is accepted by ECCV 2024.
 - *2024.02*: &nbsp;🎉🎉 OPERA is accepted by CVPR 2024. 
 - *2023.12*: &nbsp;🎉🎉 VIGC is accepted by AAAI 2024. 
@@ -35,6 +36,17 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github Repo</div><img src='images/pdf-extract-kit-pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+PDF-Extract-Kit: A Comprehensive Toolkit for High-Quality PDF Content Extraction
+
+[**Models(Hugging Face)**](https://huggingface.co/wanderkid/PDF-Extract-Kit) \| [**Models(ModelScope)**](https://www.modelscope.cn/models/wanderkid/PDF-Extract-Kit) \| [**Github** ![](https://img.shields.io/github/stars/opendatalab/PDF-Extract-Kit)](https://github.com/opendatalab/PDF-Extract-Kit)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv2024_clip-parrot-bias.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
