@@ -25,7 +25,7 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🔥🔥🔥 PDF-Extract-Kit has received 2100+ github star.
+- *2024.07*: &nbsp;🔥🔥 PDF-Extract-Kit has received 2800+ github star.
 - *2024.07*: &nbsp;🎉🎉 CLIP-Parrot-Bias is accepted by ECCV 2024.
 - *2024.02*: &nbsp;🎉🎉 OPERA is accepted by CVPR 2024. 
 - *2023.12*: &nbsp;🎉🎉 VIGC is accepted by AAAI 2024. 
