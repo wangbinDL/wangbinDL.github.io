@@ -25,7 +25,9 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🔥🔥 PDF-Extract-Kit has received 2800+ github star.
+- *2024.07*: &nbsp;🔥🔥🔥 [<img src="images/pdf-extract-kit_logo.png" width="150px" style="vertical-align:bottom;">](https://huggingface.co/wanderkid/PDF-Extract-Kit) has received **<span style="color:red">3500+</span>** GitHub stars within one month.
+- *2024.07*: &nbsp;🔥🔥🔥 [<img src="images/mineru-logo.png" width="90px" style="vertical-align:bottom;">](https://github.com/opendatalab/MinerU) has received **<span style="color:red">4200+</span>** GitHub stars and **<span style="color:red">ranked #1</span>** on the GitHub Trending list.
+
 - *2024.07*: &nbsp;🎉🎉 CLIP-Parrot-Bias is accepted by ECCV 2024.
 - *2024.02*: &nbsp;🎉🎉 OPERA is accepted by CVPR 2024. 
 - *2023.12*: &nbsp;🎉🎉 VIGC is accepted by AAAI 2024. 
@@ -34,19 +36,26 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 - *2023.08*: &nbsp;🎉🎉 V3Det is accepted by ICCV 2023 (Oral). 
 <!-- - *2022.07*: &nbsp;🎉🎉 PG-MPI is accepted by ECCV2022. -->
 
-
-# 📝 Publications 
-
+# 🚀 Project
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github Repo</div><img src='images/pdf-extract-kit-pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-PDF-Extract-Kit: A Comprehensive Toolkit for High-Quality PDF Content Extraction
+**PDF-Extract-Kit**: A Comprehensive Toolkit for High-Quality PDF Content Extraction
 
 [**Models(Hugging Face)**](https://huggingface.co/wanderkid/PDF-Extract-Kit) \| [**Models(ModelScope)**](https://www.modelscope.cn/models/wanderkid/PDF-Extract-Kit) \| [**Github** ![](https://img.shields.io/github/stars/opendatalab/PDF-Extract-Kit)](https://github.com/opendatalab/PDF-Extract-Kit)
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github Repo</div><img src='images/mineru-pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MinerU**: An End-to-End PDF Parsing Tool Based on PDF-Extract-Kit, Supporting Conversion from PDF to Markdown. | <a href="https://trendshift.io/repositories/11174" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11174" alt="opendatalab%2FMinerU | Trendshift" style="width: 200px; height: 55px;"/></a> | [**Github** ![](https://img.shields.io/github/stars/opendatalab/MinerU)](https://github.com/opendatalab/MinerU)
+</div>
+</div>
+
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv2024_clip-parrot-bias.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
