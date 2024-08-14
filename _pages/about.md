@@ -28,12 +28,12 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 - *2024.07*: &nbsp;🔥🔥🔥 [<img src="images/pdf-extract-kit_logo.png" width="150px" style="vertical-align:bottom;">](https://github.com/opendatalab/PDF-Extract-Kit) has received **<span style="color:red">3500+</span>** GitHub stars within one month.
 - *2024.07*: &nbsp;🔥🔥🔥 [<img src="images/mineru-logo.png" width="90px" style="vertical-align:bottom;">](https://github.com/opendatalab/MinerU) has received **<span style="color:red">4200+</span>** GitHub stars and **<span style="color:red">ranked #1</span>** on the GitHub Trending list.
 
-- *2024.07*: &nbsp;🎉🎉 CLIP-Parrot-Bias is accepted by ECCV 2024.
+- *2024.07*: &nbsp;🎉🎉 CLIP-Parrot-Bias is accepted by ECCV 2024 (<span style="color:red">**Oral**</span>).
 - *2024.02*: &nbsp;🎉🎉 OPERA is accepted by CVPR 2024. 
 - *2023.12*: &nbsp;🎉🎉 VIGC is accepted by AAAI 2024. 
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by IJAEOG 2024. 
 - *2023.08*: &nbsp;🎉🎉 DropQueries is accepted by TMM 2023. 
-- *2023.08*: &nbsp;🎉🎉 V3Det is accepted by ICCV 2023 (Oral). 
+- *2023.08*: &nbsp;🎉🎉 V3Det is accepted by ICCV 2023 (<span style="color:red">**Oral**</span>). 
 <!-- - *2022.07*: &nbsp;🎉🎉 PG-MPI is accepted by ECCV2022. -->
 
 # 🚀 Project
@@ -64,7 +64,7 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 Yiqi Lin<sup>*</sup>, Conghui He<sup>*</sup>, Alex Jinpeng Wang<sup>*</sup>, **Bin Wang**<sup>*</sup>, Weijia Li, Mike Zheng Shou
 
-ECCV 2024, \| [**Project**](https://linyq17.github.io/CLIP-Parrot-Bias/) \| [**Github** ![](https://img.shields.io/github/stars/opendatalab/CLIP-Parrot-Bias)](https://github.com/opendatalab/CLIP-Parrot-Bias)
+ECCV 2024 <span style="color:red">**Oral**</span>, \| [**Project**](https://linyq17.github.io/CLIP-Parrot-Bias/) \| [**Github** ![](https://img.shields.io/github/stars/opendatalab/CLIP-Parrot-Bias)](https://github.com/opendatalab/CLIP-Parrot-Bias)
 </div>
 </div>
 
