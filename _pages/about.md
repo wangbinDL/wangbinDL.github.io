@@ -25,6 +25,7 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 InternLM-XComposer2-4KHD is accepted by NeurIPS 2024.
 - *2024.07*: &nbsp;🔥🔥🔥 [<img src="images/pdf-extract-kit_logo.png" width="150px" style="vertical-align:bottom;">](https://github.com/opendatalab/PDF-Extract-Kit) has received **<span style="color:red">3500+</span>** GitHub stars within one month.
 - *2024.07*: &nbsp;🔥🔥🔥 [<img src="images/mineru-logo.png" width="90px" style="vertical-align:bottom;">](https://github.com/opendatalab/MinerU) has received **<span style="color:red">4200+</span>** GitHub stars and **<span style="color:red">ranked #1</span>** on the GitHub Trending list.
 
