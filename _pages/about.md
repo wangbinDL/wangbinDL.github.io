@@ -52,7 +52,8 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github Repo</div><img src='images/mineru-pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**MinerU**: An End-to-End PDF Parsing Tool Based on PDF-Extract-Kit, Supporting Conversion from PDF to Markdown. | <a href="https://trendshift.io/repositories/11174" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11174" alt="opendatalab%2FMinerU | Trendshift" style="width: 200px; height: 55px;"/></a> | [**Github** ![](https://img.shields.io/github/stars/opendatalab/MinerU)](https://github.com/opendatalab/MinerU)
+[**MinerU**: An Open-Source Solution for Precise Document Content Extraction](https://arxiv.org/abs/2409.18839)
+ <a href="https://trendshift.io/repositories/11174" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11174" alt="opendatalab%2FMinerU | Trendshift" style="width: 200px; height: 55px;"/></a> | [**Github** ![](https://img.shields.io/github/stars/opendatalab/MinerU)](https://github.com/opendatalab/MinerU)
 </div>
 </div>
 
