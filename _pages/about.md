@@ -27,7 +27,8 @@ I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), foc
 # 🔥 News
 
 ### 2025:
-- *2025.01*: &nbsp;🎉🎉 GeoX and OmniCorpus are accepted to ICLR 2025.
+- *2025.02*: &nbsp;🎉🎉  OmniDocBench and CDM are accepted by CVPR 2025.
+- *2025.01*: &nbsp;🎉🎉 GeoX and OmniCorpus are accepted by ICLR 2025.
 
 ### 2024:
 - *2024.09*: &nbsp;🎉🎉 InternLM-XComposer2-4KHD is accepted by NeurIPS 2024.
