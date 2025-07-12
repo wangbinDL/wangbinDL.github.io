@@ -19,7 +19,7 @@ redirect_from:
  
 <!-- # Short Bio  -->
 # Biography
-I am currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), focusing on the research of multimodal large language models and multimodal data algorithms. Prior to joining Shanghai AI Lab, I was engaged in data algorithm research at SenseTime Group Inc. (2020-2022). I obtained my Ph.D. from the University of Chinese Academy of Sciences in 2020. Between 2018 and 2019,  I participated in the National Natural Science Foundation of China's joint Ph.D. training program at the University of Central Florida, under the supervision of Professors [Yongdong Zhang](https://scholar.google.com.hk/citations?user=hxGs4ukAAAAJ&hl=zh-CN) and [Guo-Jun Qi](https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=zh-CN).
+I am currently a Research Scientist at [Shanghai AI Lab](https://www.shlab.org.cn/), focusing on the research of multimodal large language models and multimodal data algorithms. Prior to joining Shanghai AI Lab, I was engaged in data algorithm research at SenseTime Group Inc. (2020-2022). I obtained my Ph.D. from the University of Chinese Academy of Sciences in 2020. Between 2018 and 2019,  I participated in the National Natural Science Foundation of China's joint Ph.D. training program at the University of Central Florida, under the supervision of Professors [Yongdong Zhang](https://scholar.google.com.hk/citations?user=hxGs4ukAAAAJ&hl=zh-CN) and [Guo-Jun Qi](https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=zh-CN).
 
 <!-- We are seeking long-term internship candidates and looking for research collaboration. Please send email to me if you want to join us. -->
 
