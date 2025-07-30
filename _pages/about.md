@@ -19,7 +19,21 @@ redirect_from:
  
 <!-- # Short Bio  -->
 # Biography
-I am currently a Research Scientist at [Shanghai AI Lab](https://www.shlab.org.cn/), focusing on the research of multimodal large language models and multimodal data algorithms. Prior to joining Shanghai AI Lab, I was engaged in data algorithm research at SenseTime Group Inc. (2020-2022). I obtained my Ph.D. from the University of Chinese Academy of Sciences in 2020. Between 2018 and 2019,  I participated in the National Natural Science Foundation of China's joint Ph.D. training program at the University of Central Florida, under the supervision of Professors [Yongdong Zhang](https://scholar.google.com.hk/citations?user=hxGs4ukAAAAJ&hl=zh-CN) and [Guo-Jun Qi](https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=zh-CN).
+I am currently a Research Scientist at [Shanghai AI Lab](https://www.shlab.org.cn/), working with Dr. [Conghui He](https://conghui.github.io/). My research focuses on Intelligent Document Understanding, Multimodal Large Language Models, and Data-Centric AI.  
+
+I am the Head of R&D for the [MinerU project](https://github.com/opendatalab/MinerU), an open-source toolkit for high-quality document parsing that has garnered over 40k stars on GitHub. MinerU supports both traditional model pipelines and advanced multimodal large model approaches. 
+
+Prior to joining Shanghai AI Lab, I was engaged in data algorithm research at SenseTime Group Inc. (2020-2022). I obtained my Ph.D. from the University of Chinese Academy of Sciences in 2020. Between 2018 and 2019,  I participated in the National Natural Science Foundation of China's joint Ph.D. training program at the University of Central Florida, under the supervision of Professors [Yongdong Zhang](https://scholar.google.com.hk/citations?user=hxGs4ukAAAAJ&hl=zh-CN) and [Guo-Jun Qi](https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=zh-CN).
+
+
+# 欢迎加入
+
+我们持续招收对科研有强烈兴趣、自驱力强、有责任心的同学。开放职位包括：  
+- 算法实习生  
+- 青年研究员  
+- 博士联培生（欢迎希望来实验室读博的同学投递，直博和普博均可） 
+
+让我们一起做有影响力的事情。请将简历发送至：wangbin@pjlab.org.cn 或 ictwangbin@gmail.com。
 
 <!-- We are seeking long-term internship candidates and looking for research collaboration. Please send email to me if you want to join us. -->
 
