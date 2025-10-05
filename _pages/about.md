@@ -41,6 +41,10 @@ Prior to joining Shanghai AI Lab, I was engaged in data algorithm research at Se
 # 🔥 News
 
 ### 2025:
+- *2025.09*: &nbsp;🎉🎉  MinerU 2.5 is released! A 1.2B vision-language model for document parsing. [[Tech Report]](https://arxiv.org/abs/2509.22186) [[Hugging Face Model]](https://huggingface.co/opendatalab/MinerU2.5-2509-1.2B) [[GitHub]](https://github.com/opendatalab/MinerU/)   
+  - SOTA Performance: Surpasses general models (Gemini 2.5-Pro, GPT-4o, etc.) and specialized tools (MonkeyOCR, PP-StructureV3).  
+  - High Efficiency: Achieves top accuracy with significantly greater speed than large-model solutions.  
+
 - *2025.06*: &nbsp;🎉🎉 OHR, LEGION and Chimera are accepted by ICCV 2025.
 - *2025.02*: &nbsp;🎉🎉 OmniDocBench and CDM are accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉🎉 GeoX and OmniCorpus are accepted by ICLR 2025.
@@ -59,10 +63,21 @@ Prior to joining Shanghai AI Lab, I was engaged in data algorithm research at Se
 
 # 🚀 Project
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github Repo</div><img src='images/mineru2_5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**MinerU2.5**: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing <strong>(Project Lead)</strong>](https://arxiv.org/abs/2509.22186)| 
+ [**Demo(Hugging Face)**](https://huggingface.co/spaces/opendatalab/MinerU) \| 
+ [**Models(Hugging Face)**](https://huggingface.co/opendatalab/MinerU2.5-2509-1.2B) \| [**Models(ModelScope)**](https://modelscope.cn/models/OpenDataLab/MinerU2.5-2509-1.2B) \| [**Github** ![](https://img.shields.io/github/stars/opendatalab/MinerU)](https://github.com/opendatalab/MinerU)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github Repo</div><img src='images/pdf-extract-kit-pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**PDF-Extract-Kit**: A Comprehensive Toolkit for High-Quality PDF Content Extraction
+**PDF-Extract-Kit**: A Comprehensive Toolkit for High-Quality PDF Content Extraction <strong>(Project Lead)</strong>
 
 [**Models(Hugging Face)**](https://huggingface.co/wanderkid/PDF-Extract-Kit) \| [**Models(ModelScope)**](https://www.modelscope.cn/models/wanderkid/PDF-Extract-Kit) \| [**Github** ![](https://img.shields.io/github/stars/opendatalab/PDF-Extract-Kit)](https://github.com/opendatalab/PDF-Extract-Kit)
 </div>
@@ -72,7 +87,7 @@ Prior to joining Shanghai AI Lab, I was engaged in data algorithm research at Se
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github Repo</div><img src='images/mineru-pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**MinerU**: An Open-Source Solution for Precise Document Content Extraction](https://arxiv.org/abs/2409.18839)
+[**MinerU**: An Open-Source Solution for Precise Document Content Extraction <strong>(Project Lead)</strong>](https://arxiv.org/abs/2409.18839)
  <a href="https://trendshift.io/repositories/11174" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11174" alt="opendatalab%2FMinerU | Trendshift" style="width: 200px; height: 55px;"/></a> | [**Github** ![](https://img.shields.io/github/stars/opendatalab/MinerU)](https://github.com/opendatalab/MinerU)
 </div>
 </div>
