@@ -19,23 +19,43 @@ redirect_from:
  
 <!-- # Short Bio  -->
 # Biography
-I am currently a Research Scientist at [Shanghai AI Lab](https://www.shlab.org.cn/), working with Dr. [Conghui He](https://conghui.github.io/). My research focuses on Intelligent Document Understanding, Multimodal Large Language Models, and Data-Centric AI.  
 
-I am the Head of R&D for the [MinerU project](https://github.com/opendatalab/MinerU), an open-source toolkit for high-quality document parsing that has garnered over 40k stars on GitHub. MinerU supports both traditional model pipelines and advanced multimodal large model approaches. 
+I am currently a Research Scientist at [Shanghai AI Lab](https://www.shlab.org.cn/) and an Adjunct Ph.D. Supervisor at the School of AI, Shanghai Jiao Tong University. My research interests focus on **Multimodal Large Language Models**, **Next-Generation Document Understanding**, and **Data-Centric AI**.
 
-Prior to joining Shanghai AI Lab, I was engaged in data algorithm research at SenseTime Group Inc. (2020-2022). I obtained my Ph.D. from the University of Chinese Academy of Sciences in 2020. Between 2018 and 2019,  I participated in the National Natural Science Foundation of China's joint Ph.D. training program at the University of Central Florida, under the supervision of Professors [Yongdong Zhang](https://scholar.google.com.hk/citations?user=hxGs4ukAAAAJ&hl=zh-CN) and [Guo-Jun Qi](https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=zh-CN).
+I believe that true innovation stems from deep diving, and more importantly, from the relentless refinement and bold reshaping of existing technologies. **Refusing to settle for the status quo**, my goal is to deliver research that is not only scientifically rigorous but also practically transformative—tackling the "hard problems" others cannot, to provide unique solutions for the industry's most critical challenges.
+
+Guided by this philosophy, I lead the R&D of **[MinerU](https://github.com/opendatalab/MinerU)**, an open-source toolkit for high-quality document parsing. The project has garnered over **50k GitHub stars** in just 1.5 years, frequently topping GitHub Trending charts. It is widely adopted by both academia and industry, serving as a **mainstream solution** for enterprises and developers building high-quality **LLM and RAG corpora**. Additionally, I have published over 40 papers in top-tier conferences such as CVPR, ICCV, NeurIPS, and ICLR, with over 4,000 Google Scholar citations.
+
+---
+
+我是上海人工智能实验室（Shanghai AI Lab）的青年科学家，上海交通大学人工智能学院兼职博士生导师，入选上海市东方英才拔尖人才项目。我的研究聚焦于**多模态大模型**、**下一代智能文档理解**以及**以数据为中心的人工智能（Data-Centric AI）**。
+
+我相信真正的创新源于深耕，更源于对现有技术的极致打磨与勇敢重塑。我不囿于既有的技术边界，而是致力于产出既具备科学严谨性，又具有变革意义的研究——通过攻克那些别人做不到的难题，为行业最关键的挑战提供独一无二的解决方案。秉持这一理念，我主导研发了开源文档解析工具 **[MinerU](https://github.com/opendatalab/MinerU)**。该项目在一年半内斩获 **50k+ GitHub Stars**，多次登顶 GitHub Trending 全球榜单，不仅在学术界广受好评，更被产业界广泛采用，成为众多企业与开发者构建高质量大模型语料及 RAG 语料库的主流选择。同时，我在 CVPR, ICCV, NeurIPS, ICLR 等顶级会议发表论文 40 余篇，谷歌学术引用超 4000 次。
+
+我们持续寻找优秀的博士生（上交等顶尖高校博士联培名额）、博士后研究员、实习生及全职研究人员，如果你对人工智能方向充满热情，自驱力强，欢迎电子邮件联系加入我们。
+
+📧 **Email:** ictwangbin@gmail.com / wangbin@pjlab.org.cn
+
+# 为什么加入我们？
+
+**1. 做有价值的前沿研究**  
+我们的方向——多模态大模型、智能文档解析和 Data-Centric AI，是通往 AGI 的必经之路。我不想带大家为了发论文而发论文，或者做低水平的重复建设。在这里，我们只做两件事：要么解决产业界最棘手的痛点，要么挑战学术界未解的难题。**要做，就做能被同行记住、被开发者真正使用的工作。**
+
+**2. 充足的资源与纯粹的氛围**  
+算力是做大模型研究的底气。实验室拥有充足的 GPU 集群，你不必因为资源受限而缩手缩脚，可以大胆去验证那些昂贵的想法。组里的小伙伴均来自顶尖高校，大家年龄相仿，科研氛围很纯粹。对于博士生和实习生，实验室提供不错的津贴，让大家可以专注于技术突破。
+
+**3. 亦师亦友，全流程指导**  
+我自己也是从学生过来的，深知大家在不同阶段的痛点，所以我拒绝“放养”。
+*   **定制化培养**：我不会当“甩手掌柜”。从选题、Coding 到写 Paper，我会提供一对一指导，并根据你的特长规划路线。
+*   **清晰的路径**：我们每周都有前沿 Paper Reading。我的目标很明确：带你走完从【夯实基础】到【独立发顶会】，再到【做出影响力工作】的全过程，最终把你培养成能独当一面的研究者。
+*   **平等的交流**：作为青年导师，我们之间没有代沟。无论是科研卡壳了，还是对未来迷茫了，随时都可以找我聊。
+
+**4. 期待你的加入**  
+目前 2026 级博士生名额已满，非常欢迎 **2027 级直博生、普博生** 提前联系来组里实习。
+做科研是一场长跑，希望能找到志同道合的你，**一起在大模型时代做点不一样的事情。**
+*(注：对于已经毕业的优秀研究人员，如果渴望在具有影响力的平台上施展拳脚，同样欢迎联系加入。)*
 
 
-# 欢迎加入
-
-我们持续招收对科研有强烈兴趣、自驱力强、有责任心的同学。开放职位包括：  
-- 算法实习生  
-- 青年研究员  
-- 博士联培生（欢迎希望来实验室读博的同学投递，直博和普博均可） 
-
-让我们一起做有影响力的事情。请将简历发送至：wangbin@pjlab.org.cn 或 ictwangbin@gmail.com。
-
-<!-- We are seeking long-term internship candidates and looking for research collaboration. Please send email to me if you want to join us. -->
 
 
 # 🔥 News
