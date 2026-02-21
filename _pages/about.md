@@ -60,6 +60,10 @@ Guided by this philosophy, I lead the R&D of **[MinerU](https://github.com/opend
 
 # 🔥 News
 
+### 2026:
+- *2026.02*: &nbsp;🎉🎉 UniMERNet, TRivia, OmniDocLayout and ARM-Thinker are accepted by CVPR 2026.
+
+
 ### 2025:
 - *2025.09*: &nbsp;🎉🎉  MinerU 2.5 is released! A 1.2B vision-language model for document parsing. [[Tech Report]](https://arxiv.org/abs/2509.22186) [[Hugging Face Model]](https://huggingface.co/opendatalab/MinerU2.5-2509-1.2B) [[GitHub]](https://github.com/opendatalab/MinerU/)   
   - SOTA Performance: Surpasses general models (Gemini 2.5-Pro, GPT-4o, etc.) and specialized tools (MonkeyOCR, PP-StructureV3).  
