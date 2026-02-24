@@ -62,6 +62,7 @@ Guided by this philosophy, I lead the R&D of **[MinerU](https://github.com/opend
 
 ### 2026:
 - *2026.02*: &nbsp;🎉🎉 UniMERNet, TRivia, OmniDocLayout and ARM-Thinker are accepted by CVPR 2026.
+- *2026.02*: &nbsp;🎉🎉 MoDora is accepted by SIGMOD 2026.
 
 
 ### 2025:
