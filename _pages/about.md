@@ -61,6 +61,8 @@ Guided by this philosophy, I lead the R&D of **[MinerU](https://github.com/opend
 # 🔥 News
 
 ### 2026:
+- *2026.04*: &nbsp;🔥🔥🔥 MinerU2.5-Pro is released! Pushing the limits of data-centric document parsing — achieves **95.69** on OmniDocBench v1.6, surpassing models with 200× more parameters (Gemini 3 Pro, GPT-5.2, Qwen3-VL-235B). [[Paper]](https://arxiv.org/abs/2604.04771) [[GitHub]](https://github.com/opendatalab/MinerU/)
+- *2026.03*: &nbsp;🔥🔥🔥 MinerU-Diffusion is released! Rethinking Document OCR as inverse rendering via diffusion decoding — up to **3.26× faster** than MinerU2.5 with near-lossless accuracy. [[Paper]](https://arxiv.org/abs/2603.22458) [[GitHub]](https://github.com/opendatalab/MinerU-Diffusion)
 - *2026.02*: &nbsp;🎉🎉 UniMERNet, TRivia, OmniDocLayout and ARM-Thinker are accepted by CVPR 2026.
 - *2026.02*: &nbsp;🎉🎉 MoDora is accepted by SIGMOD 2026.
 
@@ -88,6 +90,27 @@ Guided by this philosophy, I lead the R&D of **[MinerU](https://github.com/opend
 
 # 🚀 Project
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">New 🔥</div><img src='images/mineru2_5_pro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**MinerU2.5-Pro**: Pushing the Limits of Data-Centric Document Parsing at Scale <strong>(Project Lead)</strong>](https://arxiv.org/abs/2604.04771) \|
+ [**Models(Hugging Face)**](https://huggingface.co/opendatalab/MinerU2.5-Pro-2604-1.2B) \| [**Models(ModelScope)**](https://modelscope.cn/models/OpenDataLab/MinerU2.5-Pro-2604-1.2B) \| [**Github** ![](https://img.shields.io/github/stars/opendatalab/MinerU)](https://github.com/opendatalab/MinerU)
+
+- **Current SOTA** on OmniDocBench v1.6, scoring **95.69** overall — surpassing models with **200× more parameters** (Gemini 3 Pro, GPT-5.2, Qwen3-VL-235B).
+- Key insight: **data quality is the real ceiling**, not model size. We maintain the same **1.2B** model and unlock its full potential through **data engineering**: diversity-aware sampling (65.5M samples), cross-model verification for reliable annotations, and iterative refinement for hard samples.
+- Three-stage progressive training: large-scale pre-training → hard sample fine-tuning → GRPO alignment.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">New 🔥</div><img src='images/mineru_diffusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**MinerU-Diffusion**: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding <strong>(Project Lead)</strong>](https://arxiv.org/abs/2603.22458) \| [**Github** ![](https://img.shields.io/github/stars/opendatalab/MinerU-Diffusion)](https://github.com/opendatalab/MinerU-Diffusion)
+
+- A novel paradigm that reframes document OCR as **inverse rendering via diffusion decoding**, replacing autoregressive generation with block-wise parallel processing.
+- Achieves up to **3.26× faster** throughput compared to MinerU2.5, with **2.12× speedup at 99.9% relative accuracy**.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github Repo</div><img src='images/mineru2_5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"gh repo view opendatalab/MinerU-Diffusion --json description,name,stargazerCount,url 2>/dev/null && echo \\\"---\\\" && gh api repos/opendatalab/MinerU-Diffusion/readme --jq '.content' 2>/dev/...",
+  "error": "Exit code 4",
+  "timestamp": "2026-04-15T15:09:57.873Z",
+  "retry_count": 1
+}

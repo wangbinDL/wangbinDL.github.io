@@ -1,0 +1,197 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1776262611074,
+  "projectRoot": "/Users/bin/code/homepage/wangbinDL.github.io",
+  "techStack": {
+    "languages": [
+      {
+        "name": "Ruby",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "Gemfile"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "bundler",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "assets",
+      "docs"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "_data": {
+      "path": "_data",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1776262610885,
+      "keyFiles": [
+        "navigation.yml"
+      ]
+    },
+    "_includes": {
+      "path": "_includes",
+      "purpose": null,
+      "fileCount": 9,
+      "lastAccessed": 1776262610888,
+      "keyFiles": [
+        "analytics.html",
+        "author-profile.html",
+        "browser-upgrade.html",
+        "fetch_google_scholar_stats.html",
+        "head.html"
+      ]
+    },
+    "_layouts": {
+      "path": "_layouts",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1776262610889,
+      "keyFiles": [
+        "default.html"
+      ]
+    },
+    "_pages": {
+      "path": "_pages",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1776262610890,
+      "keyFiles": [
+        "about.md"
+      ]
+    },
+    "_sass": {
+      "path": "_sass",
+      "purpose": null,
+      "fileCount": 18,
+      "lastAccessed": 1776262610895,
+      "keyFiles": [
+        "_animations.scss",
+        "_archive.scss",
+        "_base.scss",
+        "_buttons.scss",
+        "_footer.scss"
+      ]
+    },
+    "_site": {
+      "path": "_site",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1776262610895,
+      "keyFiles": [
+        "about.html",
+        "feed.xml",
+        "index.html",
+        "redirects.json",
+        "robots.txt"
+      ]
+    },
+    "assets": {
+      "path": "assets",
+      "purpose": "Static assets",
+      "fileCount": 0,
+      "lastAccessed": 1776262610895,
+      "keyFiles": []
+    },
+    "docs": {
+      "path": "docs",
+      "purpose": "Documentation",
+      "fileCount": 2,
+      "lastAccessed": 1776262610895,
+      "keyFiles": [
+        "README-zh.md",
+        "screenshot.png"
+      ]
+    },
+    "google_scholar_crawler": {
+      "path": "google_scholar_crawler",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1776262610895,
+      "keyFiles": [
+        "main.py",
+        "requirements.txt"
+      ]
+    },
+    "images": {
+      "path": "images",
+      "purpose": null,
+      "fileCount": 36,
+      "lastAccessed": 1776262610895,
+      "keyFiles": [
+        "500x300.png",
+        "AAAI2024_VIGC.png",
+        "DropQuery.png",
+        "IJAEOG.png",
+        "IJCAI2019_BPG.png"
+      ]
+    },
+    "publications": {
+      "path": "publications",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1776262610895,
+      "keyFiles": [
+        "MinerU2_5.pdf"
+      ]
+    },
+    "_site/assets": {
+      "path": "_site/assets",
+      "purpose": "Static assets",
+      "fileCount": 0,
+      "lastAccessed": 1776262610896,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "_pages/about.md",
+      "accessCount": 9,
+      "lastAccessed": 1776265894015,
+      "type": "file"
+    },
+    {
+      "path": "images/mineru2_5_pro.png",
+      "accessCount": 2,
+      "lastAccessed": 1776263447560,
+      "type": "file"
+    },
+    {
+      "path": "",
+      "accessCount": 1,
+      "lastAccessed": 1776262824601,
+      "type": "directory"
+    },
+    {
+      "path": "images/mineru_diffusion.png",
+      "accessCount": 1,
+      "lastAccessed": 1776265860692,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

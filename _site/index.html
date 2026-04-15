@@ -241,7 +241,7 @@
 
 <p>我是上海人工智能实验室（Shanghai AI Lab）的青年科学家，上海交通大学人工智能学院兼职博士生导师，入选上海市东方英才拔尖人才项目。我的研究聚焦于<strong>多模态大模型</strong>、<strong>下一代智能文档理解</strong>以及<strong>以数据为中心的人工智能（Data-Centric AI）</strong>。</p>
 
-<p>我相信真正的创新源于深耕，更源于对现有技术的极致打磨与勇敢重塑。我不囿于既有的技术边界，而是致力于产出既具备科学严谨性，又具有变革意义的研究——通过攻克那些别人做不到的难题，为行业最关键的挑战提供独一无二的解决方案。秉持这一理念，我主导研发了开源文档解析工具 <strong><a href="https://github.com/opendatalab/MinerU">MinerU</a></strong>。该项目在一年半内斩获 <strong>50k+ GitHub Stars</strong>，多次登顶 GitHub Trending 全球榜单，不仅在学术界广受好评，更被产业界广泛采用，成为众多企业与开发者构建高质量大模型语料及 RAG 语料库的主流选择。同时，我在 CVPR, ICCV, NeurIPS, ICLR 等顶级会议发表论文 40 余篇，谷歌学术引用超 4000 次。</p>
+<p>我相信真正的创新源于深耕，更源于对现有技术的极致打磨与勇敢重塑。我不囿于既有的技术边界，而是致力于产出既具备科学严谨性，又具有变革意义的研究——通过攻克那些别人做不到的难题，为行业最关键的挑战提供独一无二的解决方案。秉持这一理念，我主导研发了开源文档解析工具 <strong><a href="https://github.com/opendatalab/MinerU">MinerU</a></strong>。该项目在一年半内斩获 <strong>50k+ GitHub Stars</strong>，多次登顶 GitHub Trending 全球榜单，不仅在学术界广受好评，更被产业界广泛采用，成为众多企业与开发者构建高质量大模型语料及 RAG 语料库的主流选择。我在AI相关领域发表高水平论文50余篇，包含CVPR, ICCV, NeurIPS, ICLR 等顶级会议，谷歌学术引用超 5000 次。</p>
 
 <p>我们持续寻找优秀的博士生（上交等顶尖高校博士联培名额）、博士后研究员、实习生及全职研究人员，如果你对人工智能方向充满热情，自驱力强，欢迎电子邮件联系加入我们。</p>
 
@@ -269,6 +269,14 @@
 <em>(注：对于已经毕业的优秀研究人员，如果渴望在具有影响力的平台上施展拳脚，同样欢迎联系加入。)</em></p>
 
 <h1 id="-news">🔥 News</h1>
+
+<h3 id="2026">2026:</h3>
+<ul>
+  <li><em>2026.04</em>:  🔥🔥🔥 MinerU2.5-Pro is released! Pushing the limits of data-centric document parsing — achieves <strong>95.69</strong> on OmniDocBench v1.6, surpassing models with 200× more parameters (Gemini 3 Pro, GPT-5.2, Qwen3-VL-235B). <a href="https://arxiv.org/abs/2604.04771">[Paper]</a> <a href="https://github.com/opendatalab/MinerU/">[GitHub]</a></li>
+  <li><em>2026.03</em>:  🔥🔥🔥 MinerU-Diffusion is released! Rethinking Document OCR as inverse rendering via diffusion decoding — up to <strong>3.26× faster</strong> than MinerU2.5 with near-lossless accuracy. <a href="https://arxiv.org/abs/2603.22458">[Paper]</a> <a href="https://github.com/opendatalab/MinerU-Diffusion">[GitHub]</a></li>
+  <li><em>2026.02</em>:  🎉🎉 UniMERNet, TRivia, OmniDocLayout and ARM-Thinker are accepted by CVPR 2026.</li>
+  <li><em>2026.02</em>:  🎉🎉 MoDora is accepted by SIGMOD 2026.</li>
+</ul>
 
 <h3 id="2025">2025:</h3>
 <ul>
@@ -298,6 +306,32 @@
 </ul>
 
 <h1 id="-project">🚀 Project</h1>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">New 🔥</div><img src="images/mineru2_5_pro.png" alt="sym" width="100%" /></div></div>
+<div class="paper-box-text">
+
+    <p><a href="https://arxiv.org/abs/2604.04771"><strong>MinerU2.5-Pro</strong>: Pushing the Limits of Data-Centric Document Parsing at Scale <strong>(Project Lead)</strong></a> |
+ <a href="https://huggingface.co/opendatalab/MinerU2.5-Pro-2604-1.2B"><strong>Models(Hugging Face)</strong></a> | <a href="https://modelscope.cn/models/OpenDataLab/MinerU2.5-Pro-2604-1.2B"><strong>Models(ModelScope)</strong></a> | <a href="https://github.com/opendatalab/MinerU"><strong>Github</strong> <img src="https://img.shields.io/github/stars/opendatalab/MinerU" alt="" /></a></p>
+
+    <ul>
+      <li><strong>Current SOTA</strong> on OmniDocBench v1.6, scoring <strong>95.69</strong> overall — surpassing models with <strong>200× more parameters</strong> (Gemini 3 Pro, GPT-5.2, Qwen3-VL-235B).</li>
+      <li>Key insight: <strong>data quality is the real ceiling</strong>, not model size. We maintain the same <strong>1.2B</strong> model and unlock its full potential through <strong>data engineering</strong>: diversity-aware sampling (65.5M samples), cross-model verification for reliable annotations, and iterative refinement for hard samples.</li>
+      <li>Three-stage progressive training: large-scale pre-training → hard sample fine-tuning → GRPO alignment.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">New 🔥</div><img src="images/mineru_diffusion.png" alt="sym" width="100%" /></div></div>
+<div class="paper-box-text">
+
+    <p><a href="https://arxiv.org/abs/2603.22458"><strong>MinerU-Diffusion</strong>: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding <strong>(Project Lead)</strong></a> | <a href="https://github.com/opendatalab/MinerU-Diffusion"><strong>Github</strong> <img src="https://img.shields.io/github/stars/opendatalab/MinerU-Diffusion" alt="" /></a></p>
+
+    <ul>
+      <li>A novel paradigm that reframes document OCR as <strong>inverse rendering via diffusion decoding</strong>, replacing autoregressive generation with block-wise parallel processing.</li>
+      <li>Achieves up to <strong>3.26× faster</strong> throughput compared to MinerU2.5, with <strong>2.12× speedup at 99.9% relative accuracy</strong>.</li>
+    </ul>
+  </div>
+</div>
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">Github Repo</div><img src="images/mineru2_5.png" alt="sym" width="100%" /></div></div>
 <div class="paper-box-text">
