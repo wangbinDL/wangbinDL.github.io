@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1776262611074,
+  "lastScanned": 1779933663731,
   "projectRoot": "/Users/bin/code/homepage/wangbinDL.github.io",
   "techStack": {
     "languages": [
@@ -48,7 +48,7 @@
       "path": "_data",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1776262610885,
+      "lastAccessed": 1779933663695,
       "keyFiles": [
         "navigation.yml"
       ]
@@ -57,7 +57,7 @@
       "path": "_includes",
       "purpose": null,
       "fileCount": 9,
-      "lastAccessed": 1776262610888,
+      "lastAccessed": 1779933663698,
       "keyFiles": [
         "analytics.html",
         "author-profile.html",
@@ -70,7 +70,7 @@
       "path": "_layouts",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1776262610889,
+      "lastAccessed": 1779933663700,
       "keyFiles": [
         "default.html"
       ]
@@ -79,7 +79,7 @@
       "path": "_pages",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1776262610890,
+      "lastAccessed": 1779933663703,
       "keyFiles": [
         "about.md"
       ]
@@ -88,7 +88,7 @@
       "path": "_sass",
       "purpose": null,
       "fileCount": 18,
-      "lastAccessed": 1776262610895,
+      "lastAccessed": 1779933663705,
       "keyFiles": [
         "_animations.scss",
         "_archive.scss",
@@ -101,7 +101,7 @@
       "path": "_site",
       "purpose": null,
       "fileCount": 7,
-      "lastAccessed": 1776262610895,
+      "lastAccessed": 1779933663706,
       "keyFiles": [
         "about.html",
         "feed.xml",
@@ -114,14 +114,14 @@
       "path": "assets",
       "purpose": "Static assets",
       "fileCount": 0,
-      "lastAccessed": 1776262610895,
+      "lastAccessed": 1779933663709,
       "keyFiles": []
     },
     "docs": {
       "path": "docs",
       "purpose": "Documentation",
       "fileCount": 2,
-      "lastAccessed": 1776262610895,
+      "lastAccessed": 1779933663709,
       "keyFiles": [
         "README-zh.md",
         "screenshot.png"
@@ -131,7 +131,7 @@
       "path": "google_scholar_crawler",
       "purpose": null,
       "fileCount": 3,
-      "lastAccessed": 1776262610895,
+      "lastAccessed": 1779933663711,
       "keyFiles": [
         "main.py",
         "requirements.txt"
@@ -140,8 +140,8 @@
     "images": {
       "path": "images",
       "purpose": null,
-      "fileCount": 36,
-      "lastAccessed": 1776262610895,
+      "fileCount": 38,
+      "lastAccessed": 1779933663711,
       "keyFiles": [
         "500x300.png",
         "AAAI2024_VIGC.png",
@@ -154,7 +154,7 @@
       "path": "publications",
       "purpose": null,
       "fileCount": 2,
-      "lastAccessed": 1776262610895,
+      "lastAccessed": 1779933663712,
       "keyFiles": [
         "MinerU2_5.pdf"
       ]
@@ -163,15 +163,15 @@
       "path": "_site/assets",
       "purpose": "Static assets",
       "fileCount": 0,
-      "lastAccessed": 1776262610896,
+      "lastAccessed": 1779933663714,
       "keyFiles": []
     }
   },
   "hotPaths": [
     {
       "path": "_pages/about.md",
-      "accessCount": 9,
-      "lastAccessed": 1776265894015,
+      "accessCount": 12,
+      "lastAccessed": 1779933818244,
       "type": "file"
     },
     {
